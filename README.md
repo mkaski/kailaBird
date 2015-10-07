@@ -1,6 +1,6 @@
 # Kaila Bird
 
-## Flappy Bird clone in Java (Uni. course project)
+## Flappy Bird clone in Java (uni. course project)
 
 This project was made as an excercise project for the university course Basics of Object Oriented Programming in the early 2014.
 
